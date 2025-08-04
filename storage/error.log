@@ -1,0 +1,20 @@
+[29-Jul-2025 22:14:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "MAX_PASTE_SIZE" in C:\xampp\htdocs\Lunabin\index.php:95
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Lunabin\index.php on line 95
+[29-Jul-2025 22:14:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "MAX_PASTE_SIZE" in C:\xampp\htdocs\Lunabin\index.php:95
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Lunabin\index.php on line 95
+[29-Jul-2025 22:14:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "MAX_PASTE_SIZE" in C:\xampp\htdocs\Lunabin\index.php:95
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Lunabin\index.php on line 95
+[29-Jul-2025 22:14:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "MAX_PASTE_SIZE" in C:\xampp\htdocs\Lunabin\index.php:95
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Lunabin\index.php on line 95
+[29-Jul-2025 22:14:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "MAX_PASTE_SIZE" in C:\xampp\htdocs\Lunabin\index.php:95
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Lunabin\index.php on line 95

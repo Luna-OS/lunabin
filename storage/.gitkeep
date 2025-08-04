@@ -1,0 +1,5 @@
+# Storage Directory
+# This directory is used for:
+# - Admin configuration (.admin file)
+# - SQLite database (db.sqlite)
+# - Other secure storage needs 
